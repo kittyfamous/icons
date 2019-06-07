@@ -1,0 +1,21 @@
+{
+    "name": "kittyfamous/yii2-icons",
+    "description": "输出fontawesome图标",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","icons"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "kittyfamous",
+            "email": "kittyfamous@foxmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "kittyfamous\\icons\\": ""
+        }
+    }
+}
